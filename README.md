@@ -1,50 +1,13 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<kbd><img width="250" alt="705728699_969475569036837_8323854812296487981_n" src="https://github.com/user-attachments/assets/8a89ee16-3012-4652-88a2-95f849347f91" /><kbd>
 
-## Get started
 
-1. Install dependencies
+<kbd><img width="250" alt="703178462_989000070278772_8931442660868195968_n" src="https://github.com/user-attachments/assets/e34a4ff1-c9fe-4e61-8c9c-1c2e8a2e786d" /><kbd>
 
-   ```bash
-   npm install
-   ```
+<br><br>
 
-2. Start the app
+<kbd><img width="250" alt="705450330_1710910596990776_9182684579208707168_n" src="https://github.com/user-attachments/assets/e0ef13c9-c2aa-4b34-973a-b73b3a4c9367" /><kbd>
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<kbd><img width="250" alt="704366457_975077668454384_5134093844525006184_n" src="https://github.com/user-attachments/assets/78ab8973-a675-4b45-b490-4e9295d10db2" /><kbd>
