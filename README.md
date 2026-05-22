@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="250" alt="705728699_969475569036837_8323854812296487981_n" src="https://github.com/user-attachments/assets/8a89ee16-3012-4652-88a2-95f849347f91" /><kbd>
 
 
